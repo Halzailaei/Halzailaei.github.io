@@ -1,35 +1,96 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
-    <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+<title>Hussein Naji Portfolio</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {
+    margin: 0;
+    font-family: -apple-system, sans-serif;
+    background: #0f172a;
+    color: white;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    margin-top: 40px;
+    border-bottom: 2px solid #38bdf8;
+    display: inline-block;
+}
+
+.card {
+    background: #1e293b;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+button {
+    background: #38bdf8;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+</style>
 </head>
+
 <body>
 
-<header>
-    <h1>Keon Johnson</h1>
-    <p>iOS Developer | SwiftUI</p>
-</header>
+<div class="container">
 
-<section class="projects">
-    <h2>My Projects</h2>
+<h1>Hi, I'm Hussein 👋</h1>
+<p>iOS Developer | SwiftUI Specialist</p>
 
-    <div class="card">
-        <h3>Arabic Alphabet App</h3>
-        <p>Fun learning app for kids with drag & drop + rewards</p>
-    </div>
+<h2>About Me</h2>
+<div class="card">
+<p>I build clean and interactive iOS apps, especially for kids and education.</p>
+</div>
 
-    <div class="card">
-        <h3>Trivia Game</h3>
-        <p>Multiplayer quiz game with animations</p>
-    </div>
-</section>
+<h2>Skills</h2>
+<div class="card">
+<p>Swift, SwiftUI, UI Design, Animations, Game Logic</p>
+</div>
 
-<footer>
-    <p>© 2026 Keon</p>
-</footer>
+<h2>Projects</h2>
+
+<div class="card">
+<h3>Arabic Learning App</h3>
+<p>Interactive kids learning app with rewards and animations.</p>
+</div>
+
+<div class="card">
+<h3>Trivia Game</h3>
+<p>Multiplayer trivia game with sudden death mode.</p>
+</div>
+
+<div class="card">
+<h3>Math App</h3>
+<p>Simple and clean math learning app.</p>
+</div>
+
+<h2>Contact</h2>
+<div class="card">
+<p>Email: your@email.com</p>
+</div>
+
+</div>
 
 </body>
 </html>
