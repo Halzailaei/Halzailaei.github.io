@@ -1,2 +1,6 @@
-# hi 
-more information
+# Hi
+I am an iOS developer in building applications using Xcode and SwiftUI, combining technical development with thoughtful UI/UX design. I focus on creating clean, intuitive, and user-centered experiences that make applications both functional and engaging.
+In 2025, I joined the Apple Developer Academy in Detroit, Michigan, where I expanded my knowledge in digital design, modern development practices, and app lifecycle management. This experience strengthened my ability to design meaningful interfaces and develop high-quality iOS applications that solve real-world problems.
+I am currently a student at the Apple Developer Academy, continuously improving my skills in SwiftUI, app architecture, and user experience design.
+I hold a Bachelor’s degree in Computer Science from Iraq (2002–2003), and I graduated from Wayne Community College (2019–2020). Additionally, I earned a Google certification in computer maintenance and repair, which enhanced my technical troubleshooting and hardware skills.
+Beyond development, I enjoy reading, playing soccer, watching movies, volunteering in my community, learning new technologies, and spending time with friends and family. These interests help me stay creative, balanced, and continuously motivated to grow both personally and professionally
